@@ -7,7 +7,9 @@
 
 ## Getting Started
 
-Here is a quick way to compile the example given in this repository.
+Here is a quick way to compile the example given in this repository. The code we use is currently in `pico_micro_ros_example.c`. The [tutorial linked](https://robofoundry.medium.com/raspberry-pi-pico-ros2-via-micro-ros-actually-working-in-1-hr-9f7a3782d3e3) assisted in the process. The following is the pinout in the pico as well:
+
+[pico image](https://learn.adafruit.com/assets/99339)
 
 ### Dependencies
 
