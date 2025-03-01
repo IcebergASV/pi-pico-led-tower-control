@@ -13,9 +13,9 @@
 
 const uint LED_PIN = 25;
 
-const uint RED_LED = 2;
-const uint YELLOW_LED = 3;
-const uint GREEN_LED = 4;
+const uint YELLOW_LED = 2;
+const uint GREEN_LED = 3; 
+const uint RED_LED = 4;
 const uint ESTOP_INPUT = 1;
 
 
